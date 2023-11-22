@@ -1,0 +1,7 @@
+# print("Hello World!!")
+# print("I")
+# print("Don't")
+# print("Care")
+# print("Boston")
+# print("เมืองไทย พังแน่")
+print("อิมนักบิด")
